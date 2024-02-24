@@ -1,3 +1,3 @@
 @echo off
-python "C:\Users\Darke\OneDrive\Desktop\AWS\Mass-AWS-Email.py"
+python "C:\directory\to\the\AWS\Mass-AWS-Email.py"
 pause
