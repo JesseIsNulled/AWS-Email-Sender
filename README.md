@@ -34,7 +34,7 @@ Update the commented credentials as per your email provider and template name.
 
 Prepare your email list file (emails.txt) with a list of email addresses.
 
-To start the Mass-AWS-Sender.py, simply run the provided .bat file
+To start the Mass-AWS-Sender.py, simply edit the run.bat for the .py path and run the provided .bat file, This could also be used for the Template creator script.
 
 
 
